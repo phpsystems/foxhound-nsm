@@ -1,6 +1,6 @@
 # FOXHOUND-NSM
 
-RaspberryPi 3 NSM based on [Bro](https://www.bro.org). Suitable for a home 'blackbox' deployment.
+RaspberryPi 3 NSM based on [Zeek](https://www.zeek.org). Suitable for a home 'blackbox' deployment.
 
 ## Requirements
 * [Raspberry Pi 3](https://thepihut.com/products/raspberry-pi-3-model-b) or ARM based system.
@@ -9,11 +9,12 @@ RaspberryPi 3 NSM based on [Bro](https://www.bro.org). Suitable for a home 'blac
   * [NetGear GS105Ev2](https://www.amazon.co.uk/dp/B002YPJ8KM)
   * [MicroTik RouterBoard 260GS](https://www.amazon.com/dp/B00GAZ2HHS)
   * [Security Onion's Device List](https://github.com/Security-Onion-Solutions/security-onion/wiki/Hardware#packets)
-* [Critical Stack Account](https://intel.criticalstack.com/user/sign_up)
+* [Critical Stack Account](https://intel.criticalstack.com/user/sign_up) - Retired
 * optional: [Mailgun Account](http://www.mailgun.com/)
 * optional: [WD PiDrive Foundation Edition](http://wdlabs.wd.com/category/wd-pidrive/)
 
 ## General Preparation
+** DEPRICATED **
 * critical stack:
   * get a critical [stack account](https://intel.criticalstack.com/user/sign_up)
   * set up a collection and a sensor

@@ -14,7 +14,7 @@ RaspberryPi 3 NSM based on [Zeek](https://www.zeek.org). Suitable for a home 'bl
 * optional: [WD PiDrive Foundation Edition](http://wdlabs.wd.com/category/wd-pidrive/)
 
 ## General Preparation
-** DEPRICATED **
+** DEPRECATED **
 * critical stack:
   * get a critical [stack account](https://intel.criticalstack.com/user/sign_up)
   * set up a collection and a sensor
